@@ -1,4 +1,4 @@
-# Serverless Cognito
+# Smartlegal Serverless Cognito App
 
 ## Setup
 
